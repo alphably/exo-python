@@ -1,0 +1,5 @@
+.idea/
+venv/
+django.py
+exos.py
+tri_bulle.py
